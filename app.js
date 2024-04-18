@@ -5,7 +5,7 @@
      ******************************************************* */
 $("#morning").click( function() {//the name of the HTML button is in double quotes "#morning". Make this match your HTML button ID in index.html
 
-    speak("Good Morning, Sarah!"); //what should be spoken by app
+    speak("Good Morning Sarah!"); //what should be spoken by app
 
 });
 
@@ -37,7 +37,7 @@ $("#showing").click( function() {
 
 $("#morning2").click( function() {//the name of the HTML button is in double quotes "#morning". Make this match your HTML button ID in index.html
 
-    speak("Good Morning, Sarah!"); //what should be spoken by app
+    speak("Good Morning Sarah!"); //what should be spoken by app
 
 });
 
@@ -75,7 +75,7 @@ $("#great").click( function() {
 
 $("#morning3").click( function() {//the name of the HTML button is in double quotes "#morning". Make this match your HTML button ID in index.html
 
-    speak("Good Morning, Sarah!"); //what should be spoken by app
+    speak("Good Morning Sarah!"); //what should be spoken by app
 
 });
 
